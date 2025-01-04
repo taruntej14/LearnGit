@@ -1,2 +1,2 @@
 Hi
-This is to leran git/github
+This is to learn git/github through commandLine
